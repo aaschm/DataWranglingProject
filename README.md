@@ -1,6 +1,7 @@
 # HTML File
 
 This is an HTML file that needs to be downloaded and opened in a web browser to view its content.
+All project details/data information is included in the HTML file. 
 
 ## Instructions:
 1. Download the HTML file.
